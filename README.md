@@ -4,7 +4,7 @@ Welcome to my GitHub profile! It’s time for us to create a storm of apps toget
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ## About Me 👤
-I'm **Shahram Hosseinzadeh**, an Android developer passionate about building cutting-edge applications. 🚀
+I'm **Shahram Hosseinzadeh**, an Android developer with a deep passion for creating innovative and efficient applications. With a background in Kotlin, Jetpack Compose, and modern Android architectures like MVVM, I strive to deliver high-quality mobile solutions. Currently, I am expanding my skill set by learning Flutter and enjoying teaching Android programming with Kotlin. Let’s embark on an exciting journey through the world of Android development and create amazing apps together! 🚀
 
 - 🎯 **Currently Working On:** Carpet Shop Project
 - 👨🏻‍💻 **Currently Learning:** Flutter
