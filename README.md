@@ -56,10 +56,10 @@ I'm **Shahram Hosseinzadeh**, an Android developer passionate about building cut
 
 
 ## How to Contact Me 📫
-- **Email:** [![Email](https://img.shields.io/badge/Email-%40shahramhdev-orange?logo=gmail)](mailto:shahramhdev@gmail.com)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40shahram--hosseinzadeh--dev-blue?logo=linkedin)](https://www.linkedin.com/in/shahram-hosseinzadeh-dev/)
-- **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-%40shahram_academy-orange?logo=instagram)](https://www.instagram.com/shahram_academy/)
-- **Telegram:** [![Telegram](https://img.shields.io/badge/Telegram-%40sha_hra_m-blue?logo=telegram)](https://t.me/sha_hra_m/)
+-  [![Email](https://img.shields.io/badge/Email-%40shahramhdev-orange?logo=gmail)](mailto:shahramhdev@gmail.com)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40shahram--hosseinzadeh--dev-blue?logo=linkedin)](https://www.linkedin.com/in/shahram-hosseinzadeh-dev/)
+-  [![Instagram](https://img.shields.io/badge/Instagram-%40shahram_academy-orange?logo=instagram)](https://www.instagram.com/shahram_academy/)
+-  [![Telegram](https://img.shields.io/badge/Telegram-%40sha_hra_m-blue?logo=telegram)](https://t.me/sha_hra_m/)
 
 ---
 
