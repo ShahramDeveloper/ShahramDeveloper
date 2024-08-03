@@ -11,7 +11,7 @@ I'm **Shahram Hosseinzadeh**, an Android developer passionate about building cut
 - 💬 **Ask Me About:** The Android World
 - 👻 **Fun Fact:** Yesterday I was fixing a bug, and then I found another one...
 
-## Tools and Technologies 🛠️
+## Tools and Technologies 🤖
 
 Here are some of the tools and technologies I use:
 
