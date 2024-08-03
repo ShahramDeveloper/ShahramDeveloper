@@ -1,6 +1,7 @@
 # Hey friends! 👋😊
 
 Welcome to my GitHub profile! It’s time for us to create a storm of apps together! 🌪️📱
+![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ## About Me 👤
 I'm **Shahram Hosseinzadeh**, an Android developer passionate about building cutting-edge applications. 🚀
