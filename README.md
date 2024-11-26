@@ -88,7 +88,7 @@ Here are some of the tools and technologies I use:
 
 
 ## How to Contact Me 📫
--  [![Email](https://img.shields.io/badge/Email-%40shahramhdev-orange?logo=gmail)](mailto:shahram.hz.dev@gmail.com)
+-  [![Email](https://img.shields.io/badge/Email-%40shahram.hz.dev-orange?logo=gmail)](mailto:shahram.hz.dev@gmail.com)
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40shahram--hosseinzadeh--dev-blue?logo=linkedin)](https://www.linkedin.com/in/shahram-hosseinzadeh-dev/)
 -  [![Instagram](https://img.shields.io/badge/Instagram-%40shahram_academy-orange?logo=instagram)](https://www.instagram.com/shahram_academy/)
 -  [![Telegram](https://img.shields.io/badge/Telegram-%40sha_hra_m-blue?logo=telegram)](https://t.me/sha_hra_m/)
